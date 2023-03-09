@@ -51,7 +51,8 @@
             Console.WriteLine();
         }
 
-
+        //uma maneira de utilizar a mesma lógica, porém sem usar as variáveis de substituição no código
+        //para inverter a matriz.
         /*
         for (int l = 0, l2 = mat.GetLngth(0) -1; l < mat.GetLength(0); l++, l2--)
         {
